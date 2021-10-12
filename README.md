@@ -1,0 +1,3 @@
+- Hello! 
+- I am a 13 year old self taught programmer who codes in python.
+- discord: Supreme#6665
